@@ -5,7 +5,7 @@ Rates and predictors of cannabis-associated psychotic symptoms: A meta-analysis 
 # Overview
 
 All analyses were performed in R. The complete analytical pipeline used to run the analyses is included in the script
-[analysis.R](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/main/analysis/UKBBweightingPipeline.sh).
+[analysis.R](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/litSearch.R).
 
 </br>
 
