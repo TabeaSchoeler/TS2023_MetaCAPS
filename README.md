@@ -9,6 +9,10 @@ All analyses were performed in R. The complete analytical pipeline used to run t
 
 </br>
 
+The following analytical scripts are available:
+
+1) Script to condcut the systematic literature research in R (litSearch.R)(https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/litSearch.R)
+
 This repository includes the following files:
 
 -   [Systematic literature search](#systematic-literature-search)
