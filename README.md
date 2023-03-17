@@ -9,9 +9,18 @@ All analyses were performed in R. The complete analytical pipeline used to run t
 
 </br>
 
+## Data
+
+All study estimates analysed in this work are available [here](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/tree/main/data)
+
+## Analytical scripts
+
 The following analytical scripts are available:
 
-1) Script to condcut the systematic literature research in R (litSearch.R)(https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/litSearch.R)
+1) Script to condcut the systematic literature research in R [litSearch.R](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/litSearch.R)
+
+
+## Results
 
 This repository includes the following files:
 
@@ -25,7 +34,7 @@ This repository includes the following files:
 </br></br>
 
 
-## Systematic literature search
+### Systematic literature search
 
 #### Figure 1. Number of included studies and study participants per study design, according to year of publication
 
