@@ -47,6 +47,23 @@ This repository includes the following files:
 Number of included studies per year of publication and study design, including (1) observational research assessing recreational cannabis users, (2) experimental studies administering tetrahydrocannabinol (THC) in healthy volunteers and (3) medical studies assessing adverse events in individuals taking cannabis products for medicinal use. Quasi-experimental research involved research testing the effects of THC administration in a naturalistic setting
 
 
+</br>
+
+### Figure 2. Rates of cannabis-associated psychotic symptoms
+
+<img src="results/figures/Figure2.png" alt="A caption" width="100%" />
+
+The figure shows the pooled rates of cannabis-associated psychotic symptoms (CAPS) across the three different study designs. Estimates displayed in purple are the pooled rates (in %, 95% Confidence Interval) for each symptom profile of CAPS (psychosis-like symptoms, hallucinations, paranoia) separately. Estimates displayed in blue are the results from models pooling together all estimates on rates of CAPS (including psychosis-like symptoms, paranoia, hallucinations and delusions) per study design. k=number of published studies included in the model; n=number of included (non-overlapping) individuals. 
+
+
+### Figure 3. Rates of cannabis-associated psychotic symptoms (sensitivity analyses)
+
+<img src="results/figures/Figure3.png" alt="A caption" width="100%" />
+
+Figure 3. Rates of cannabis-associated psychotic symptoms (sensitivity analyse
+Panel A. Pooled rates of CAPS in exposed versus non-exposed individuals taking part in placebo-controlled studies. Estimates highlighted in grey index rates of CAPS in non-cannabis exposed control groups, as assessed in experiments and medicinal cannabis trials. Panel B. Studies reporting rates of cannabis-associated psychosis (full episode). Depicted in violet are the individual study estimates (in %, 95% Confidence Intervals) of studies reporting rates of (full-blown) cannabis-associated psychotic episodes. Included are studies using medicinal cannabis, observational or experimental samples. The pooled meta-analysed estimate is coloured in blue. I2 statistic (scale of 0 to 100) indexes the level of heterogeneity across the estimates included in the meta-analysis. k=number of published studies included in the model; n=number of included (non-overlapping) individuals. 
+
+</br>
 
 ### sFigure 3. Peters’ test for publication bias (rates of CAPS)
 
