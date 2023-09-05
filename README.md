@@ -17,7 +17,9 @@ All study estimates analysed in this work are available [here](https://github.co
 
 The following analytical scripts are available:
 
-1) Script to condcut the systematic literature research in R [litSearch.R](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/litSearch.R)
+1) Script to conduct the systematic literature research in R [litSearch.R](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/litSearch.R)
+2) Script to process the extracted [data](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/tree/main/data) and perform meta-analyses on rates and predictors of CAPS ([runMeta.R](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/runMeta.R))
+
 
 
 ## Results
