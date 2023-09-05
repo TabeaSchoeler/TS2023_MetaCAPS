@@ -58,7 +58,7 @@ The figure shows the pooled rates of cannabis-associated psychotic symptoms (CAP
 
 ### Figure 3. Rates of cannabis-associated psychotic symptoms (sensitivity analyses)
 
-<img src="results/figures/Figure3.png" alt="A caption" width="100%" />
+<img src="results/figures/Figure3.png" alt="A caption" width="50%" />
 
 Figure 3. Rates of cannabis-associated psychotic symptoms (sensitivity analyse
 Panel A. Pooled rates of CAPS in exposed versus non-exposed individuals taking part in placebo-controlled studies. Estimates highlighted in grey index rates of CAPS in non-cannabis exposed control groups, as assessed in experiments and medicinal cannabis trials. Panel B. Studies reporting rates of cannabis-associated psychosis (full episode). Depicted in violet are the individual study estimates (in %, 95% Confidence Intervals) of studies reporting rates of (full-blown) cannabis-associated psychotic episodes. Included are studies using medicinal cannabis, observational or experimental samples. The pooled meta-analysed estimate is coloured in blue. I2 statistic (scale of 0 to 100) indexes the level of heterogeneity across the estimates included in the meta-analysis. k=number of published studies included in the model; n=number of included (non-overlapping) individuals. 
