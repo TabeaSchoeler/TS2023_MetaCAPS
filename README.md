@@ -42,7 +42,14 @@ This repository includes the following files:
 
 #### Figure 1. Number of included studies and study participants per study design, according to year of publication
 
-<img src="results/figures/yearSearch.png" alt="A caption" width="100%" />
+<img src="results/figures/Figure1.png" alt="A caption" width="100%" />
 
 Number of included studies per year of publication and study design, including (1) observational research assessing recreational cannabis users, (2) experimental studies administering tetrahydrocannabinol (THC) in healthy volunteers and (3) medical studies assessing adverse events in individuals taking cannabis products for medicinal use. Quasi-experimental research involved research testing the effects of THC administration in a naturalistic setting
 
+
+
+### sFigure 3. Peters’ test for publication bias (rates of CAPS)
+
+<img src="results/figures/sFigure3.png" alt="A caption" width="100%" />
+
+Funnel plots show each meta-analytical model on rates of CAPS separately. The individual proportions (x-axis) of CAPS are plotted against the standard error (y-axis). The black and grey horizontal lines indicate the pooled proportion of CAPS and their corresponding 95% confidence interval. The dashed and dotted lines highlight the 95% and 99% confidence interval region, respectively. Whenever risk of publication bias was indicated (Peters’ test for publication bias p<0.05), the trim-and-fill method was applied. The trim-and-fill adjusted pooled rate of CAPS is included in the caption of the funnel plot.
