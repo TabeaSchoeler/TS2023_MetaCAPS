@@ -1,6 +1,7 @@
 Rates and predictors of cannabis-associated psychotic symptoms: A meta-analysis synthesizing observational, experimental and medical research
 ================
 
+</br></br>
 
 # Overview
 
@@ -13,6 +14,8 @@ All analyses were performed in R. The complete analytical pipeline used to run t
 
 All study estimates analysed in this work are available [here](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/tree/main/data)
 
+</br>
+
 ## Analytical scripts
 
 The following analytical scripts are available:
@@ -23,6 +26,7 @@ The following analytical scripts are available:
 4) [createTable.R](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/blob/main/analysis/createTable.R): Script to generate [supplementary tables](https://github.com/TabeaSchoeler/TS2023_MetaCAPS/tree/main/results/tables/)
 
 
+</br>
 
 ## Results
 
@@ -30,7 +34,7 @@ This repository includes the following files:
 
 -   [Systematic literature search](#systematic-literature-search)
 
--   [Extraction of the study estimates](#extraction-of-the-study-estimates)
+-   [Extraction of the study estimates](#rates-of-cannabis-associated-psychosis)
 
 
 
@@ -49,14 +53,18 @@ Number of included studies per year of publication and study design, including (
 
 </br>
 
-### Figure 2. Rates of cannabis-associated psychotic symptoms
+### Rates of cannabis-associated psychosis
+
+#### Figure 2. Rates of cannabis-associated psychotic symptoms
 
 <img src="results/figures/Figure2.png" alt="A caption" width="100%" />
 
 The figure shows the pooled rates of cannabis-associated psychotic symptoms (CAPS) across the three different study designs. Estimates displayed in purple are the pooled rates (in %, 95% Confidence Interval) for each symptom profile of CAPS (psychosis-like symptoms, hallucinations, paranoia) separately. Estimates displayed in blue are the results from models pooling together all estimates on rates of CAPS (including psychosis-like symptoms, paranoia, hallucinations and delusions) per study design. k=number of published studies included in the model; n=number of included (non-overlapping) individuals. 
 
 
-### Figure 3. Rates of cannabis-associated psychotic symptoms (sensitivity analyses)
+</br>
+
+#### Figure 3. Rates of cannabis-associated psychotic symptoms (sensitivity analyses)
 
 <img src="results/figures/Figure3.png" alt="A caption" width="50%" />
 
@@ -65,7 +73,7 @@ Panel A. Pooled rates of CAPS in exposed versus non-exposed individuals taking p
 
 </br>
 
-### sFigure 3. Peters’ test for publication bias (rates of CAPS)
+#### sFigure 3. Peters’ test for publication bias (rates of CAPS)
 
 <img src="results/figures/sFIgure3.png" alt="A caption" width="50%" />
 
