@@ -73,9 +73,9 @@ Panel A. Pooled rates of CAPS in exposed versus non-exposed individuals taking p
 
 </br>
 
-#### sFigure 3. Peters’ test for publication bias (rates of CAPS)
+#### sFigure 2. Peters’ test for publication bias (rates of CAPS)
 
-<img src="results/figures/sFIgure3.png" alt="A caption" width="50%" />
+<img src="results/figures/sFigure2.png" alt="A caption" width="50%" />
 
 
 Funnel plots show each meta-analytical model on rates of CAPS separately. The individual proportions (x-axis) of CAPS are plotted against the standard error (y-axis). The black and grey horizontal lines indicate the pooled proportion of CAPS and their corresponding 95% confidence interval. The dashed and dotted lines highlight the 95% and 99% confidence interval region, respectively. Whenever risk of publication bias was indicated (Peters’ test for publication bias p<0.05), the trim-and-fill method was applied. The trim-and-fill adjusted pooled rate of CAPS is included in the caption of the funnel plot.
