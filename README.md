@@ -105,8 +105,20 @@ Funnel plots show each meta-analytical model on rates of CAPS separately. The in
 
 Summary of pooled Cohen’s d and the corresponding 95% confidence intervals. Positive estimates of Cohen’s d indicate increases in CAPS in response to the assessed predictor. 
 
-
 </br>
+
+
+
+
+#### sFigure 5. Triangulation of findings across different study designs
+
+<img src="results/figures/sFigure5.png" alt="A caption" width="100%" />
+
+Shown are the pooled estimates of Cohen’s d when estimated separately for each of the different study designs. I2 statistic (scale of 0 to 100) indexes the level of heterogeneity across the estimates included in the meta-analysis. k=number of study estimates included in the model; n=number of included (non-overlapping) individuals.
+
+
+</br></br>
+
 
 #### sFigure 3. Egger’s test for publication bias (predictors of CAPS)
 
