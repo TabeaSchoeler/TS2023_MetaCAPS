@@ -44,6 +44,8 @@ This repository includes the following files:
 
 ### Systematic literature search
 
+</br>
+
 #### Figure 1. Number of included studies and study participants per study design, according to year of publication
 
 <img src="results/figures/Figure1.png" alt="A caption" width="50%" />
@@ -52,6 +54,17 @@ Number of included studies per year of publication and study design, including (
 
 
 </br>
+
+
+#### sFigure 1. PRISMA Flow Chart
+
+<img src="results/figures/sFigure1.png" alt="A caption" width="50%" />
+
+Flow chart as adapted from the [Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) flowchart](http://www.prisma-statement.org/)
+
+
+</br></br>
+
 
 ### Rates of cannabis-associated psychosis
 
@@ -79,3 +92,17 @@ Panel A. Pooled rates of CAPS in exposed versus non-exposed individuals taking p
 
 
 Funnel plots show each meta-analytical model on rates of CAPS separately. The individual proportions (x-axis) of CAPS are plotted against the standard error (y-axis). The black and grey horizontal lines indicate the pooled proportion of CAPS and their corresponding 95% confidence interval. The dashed and dotted lines highlight the 95% and 99% confidence interval region, respectively. Whenever risk of publication bias was indicated (Peters’ test for publication bias p<0.05), the trim-and-fill method was applied. The trim-and-fill adjusted pooled rate of CAPS is included in the caption of the funnel plot.
+
+
+</br></br>
+
+### Rates of cannabis-associated psychosis
+
+#### Figure 4. Predictors of cannabis-associated psychotic symptoms
+
+<img src="results/figures/Figure4.png" alt="A caption" width="50%" />
+
+Summary of pooled Cohen’s d and the corresponding 95% confidence intervals. Positive estimates of Cohen’s d indicate increases in CAPS in response to the assessed predictor. 
+
+
+
