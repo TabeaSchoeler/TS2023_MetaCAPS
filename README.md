@@ -36,6 +36,7 @@ This repository includes the following files:
 
 -   [Rates of cannabis-associated psychosis](#rates-of-cannabis-associated-psychosis)
 
+-   [Predictors of cannabis-associated psychosis](#predictors-of-cannabis-associated-psychosis)
 
 
 
@@ -96,11 +97,11 @@ Funnel plots show each meta-analytical model on rates of CAPS separately. The in
 
 </br></br>
 
-### Rates of cannabis-associated psychosis
+### Predictors of cannabis-associated psychosis
 
 #### Figure 4. Predictors of cannabis-associated psychotic symptoms
 
-<img src="results/figures/Figure4.png" alt="A caption" width="50%" />
+<img src="results/figures/Figure4.png" alt="A caption" width="100%" />
 
 Summary of pooled Cohen’s d and the corresponding 95% confidence intervals. Positive estimates of Cohen’s d indicate increases in CAPS in response to the assessed predictor. 
 
