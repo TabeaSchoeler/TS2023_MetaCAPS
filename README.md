@@ -108,6 +108,11 @@ Summary of pooled Cohen’s d and the corresponding 95% confidence intervals. Po
 </br>
 
 
+#### sFigure 3. Egger’s test for publication bias (predictors of CAPS)
+
+<img src="results/figures/sFigure3.png" alt="A caption" width="100%" />
+
+</br>
 
 
 #### sFigure 5. Triangulation of findings across different study designs
@@ -120,8 +125,5 @@ Shown are the pooled estimates of Cohen’s d when estimated separately for each
 </br></br>
 
 
-#### sFigure 3. Egger’s test for publication bias (predictors of CAPS)
-
-<img src="results/figures/sFigure3.png" alt="A caption" width="100%" />
 
 
