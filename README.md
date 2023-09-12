@@ -1,6 +1,4 @@
-Rates and predictors of cannabis-associated psychotic symptoms: 
-
-A synthesizing analysis of observational, experimental and medical research
+Rates and predictors of cannabis-associated psychotic symptoms: A synthesizing analysis of observational, experimental and medical research
 
 ================
 
