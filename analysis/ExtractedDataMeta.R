@@ -6478,87 +6478,9 @@ rates_KimlessMedCan2022_paranoia=data.frame(event=4, n=KimlessMedCan2022_n)
 
 
 
-
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # ========================== Melges (1974) ===========================
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 melges1974_n=6
 rates_melges1974_20mgTHC_fast_paranoia=data.frame(event=4, n=melges1974_n) # During fast hashish, four of the six subjects described as 'paranoid'
   
-
-
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# ========================== Bloomfield (2012) ===========================
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Bloomfield, Michael AP, Katherine Petrilli, Rachel Lees, Chandni Hindocha, Katherine Beck, Ryan J. Turner, Ellis Chika Onwordi et al. "The effects of acute Δ9-tetrahydrocannabinol on striatal glutamatergic function: A proton magnetic resonance spectroscopy study." Biological Psychiatry: Cognitive Neuroscience and Neuroimaging 6, no. 6 (2021): 660-667.
-
-
-
-
-
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# ========================== Barkus (2011) ===========================
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Barkus E, Morrison PD, Vuletic D, et al. Does intravenous Δ9-tetrahydrocannabinol increase dopamine release? A SPET study. J Psychopharmacol 2011; 25: 1462–68.
-
-
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# ========================== EXCLUDED ===========================
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Bossong, Matthijs G., Bart Nm Van Berckel, Ronald Boellaard, Lineke Zuurman, Robert C. Schuit, Albert D. Windhorst, Joop MA Van Gerven, Nick F. Ramsey, Adriaan A. Lammertsma, and René S. Kahn. "Δ9-tetrahydrocannabinol induces dopamine release in the human striatum." Neuropsychopharmacology 34, no. 3 (2009): 759-766.
-# ==> REASON: Already included in mega analysis (Kleinloog, Daniël, Frits Roozen, Willem De Winter, Jan Freijer, and Joop Van Gerven. "Profiling the subjective effects of Δ9‐tetrahydrocannabinol using visual analogue scales." International journal of methods in psychiatric research 23, no. 2 (2014): 245-256.)
-
-# Bossong, M.G.; Jansma, J.M.; van Hell, H.H.; Jager, G.; Kahn, R.S.; Ramsey, N.F. Default Mode Network in the Effects of ∆9-Tetrahydrocannabinol (THC) on Human Executive Function. PLoS ONE 2013, 8, e70074
-# ==> REASON: No CAPS reported
-
-# Klumpers, Linda E., Tim L. Beumer, Johan GC van Hasselt, Astrid Lipplaa, Lennard B. Karger, H. Daniël Kleinloog, Jan I. Freijer, Marieke L. de Kam, and Joop MA van Gerven. "Novel Δ9‐tetrahydrocannabinol formulation Namisol® has beneficial pharmacokinetics and promising pharmacodynamic effects." British journal of clinical pharmacology 74, no. 1 (2012): 42-53.
-# ==> REASON: No CAPS reported + Already included in mega analysis (Kleinloog, Daniël, Frits Roozen, Willem De Winter, Jan Freijer, and Joop Van Gerven. "Profiling the subjective effects of Δ9‐tetrahydrocannabinol using visual analogue scales." International journal of methods in psychiatric research 23, no. 2 (2014): 245-256.)
-
-# Klumpers, Linda E., David M. Cole, Najmeh Khalili-Mahani, Roelof P. Soeter, Erik T. te Beek, Serge ARB Rombouts, and Joop MA van Gerven. "Manipulating brain connectivity with δ9-tetrahydrocannabinol: a pharmacological resting state FMRI study." Neuroimage 63, no. 3 (2012): 1701-1711.
-# ==> REASON: No CAPS reported + Already included in mega analysis (Kleinloog, Daniël, Frits Roozen, Willem De Winter, Jan Freijer, and Joop Van Gerven. "Profiling the subjective effects of Δ9‐tetrahydrocannabinol using visual analogue scales." International journal of methods in psychiatric research 23, no. 2 (2014): 245-256.)
-
-# Klumpers, Linda E., Christine Roy, Geraldine Ferron, Sandrine Turpault, Franck Poitiers, Jean‐Louis Pinquier, Johan GC van Hasselt, Lineke Zuurman, Frank AS Erwich, and Joop MA van Gerven. "Surinabant, a selective cannabinoid receptor type 1 antagonist, inhibits Δ9‐tetrahydrocannabinol‐induced central nervous system and heart rate effects in humans." British journal of clinical pharmacology 76, no. 1 (2013): 65-77.
-# ==> REASON: No CAPS reported + Already included in mega analysis (Kleinloog, Daniël, Frits Roozen, Willem De Winter, Jan Freijer, and Joop Van Gerven. "Profiling the subjective effects of Δ9‐tetrahydrocannabinol using visual analogue scales." International journal of methods in psychiatric research 23, no. 2 (2014): 245-256.)
-
-
-# Klumpers, Linda E., Marianne Fridberg, Marieke L. de Kam, Paul B. Little, Niels Ole Jensen, Hendrik D. Kleinloog, Christian E. Elling, and Joop MA van Gerven. "Peripheral selectivity of the novel cannabinoid receptor antagonist TM 38837 in healthy subjects." British Journal of Clinical Pharmacology 76, no. 6 (2013): 846-857.
-# ==> REASON: No CAPS reported + Already included in mega analysis (Kleinloog, Daniël, Frits Roozen, Willem De Winter, Jan Freijer, and Joop Van Gerven. "Profiling the subjective effects of Δ9‐tetrahydrocannabinol using visual analogue scales." International journal of methods in psychiatric research 23, no. 2 (2014): 245-256.)
-
-
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# ========================== Hjorthoj (2020) ===========================
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# REF:Annual incidence of cannabis-induced psychosis, other substance-induced psychoses and dually diagnosed schizophrenia and cannabis use disorder in Denmark from 1994 to 2016.
-
-
-
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# ========================== Morrison (2010) ===========================
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# REF: Morrison PD, Murray RM and Kapur S (2010) In healthy subjects Canna- bidiol inhibits delta-9-tetrahydrocannabinol induced acute psychosis and tachycardia via a non-pharmacokinetic mechanism. J Psycho- pharmacol 24: A61.
-# Previously we reported preliminary findings that pre-treatment with intravenous (IV) CBD (5 mg) inhibited IV THC (1.25 mg) evoked positive psychotic symptoms, as measured by the Positive & Negative Syndrome Scale (PANSS), although the small sample size (crossover, n=6) prevents definitive conclusions (Morrison et al., 2010).
-
-
-
-
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# ========================== Dittrich (1975) ===========================
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# Dittrich,A.,Bickel,P.,Zimmer,D.:Effektevon(--)A9-trans-Tetrahydrocannabin(ozxl9-THC) auf Psychotizismus-TestsE.ine UntersuchungdesEysenckschenDrogenpostulatetsiber Be- ziehungen zwischen Halluzinogenwirkungund Psychotizismus.Psychopharmacologia (Berl.) 40, 351--358 (1975)
-
-
-#Tunbridge EM, Dunn G, Murray RM, Evans N, Lister R, Stumpenhorst K, Harrison PJ, Morrison PD, Freeman D (2015) Genetic modera- tion of the effects of cannabis: catechol-O-methyltransferase (COMT) affects the impact of Δ9-tetrahydrocannabinol (THC) on working memory performance but not on the occurrence of psychot- ic experiences. J Psychopharmacol 29:1146–1151
-# In contrast, the effect of THC on psychotic experiences, measured using the Community Assessment of Psychic Experiences (CAPE) positive dimension, was unaffected by COMT genotype.
-
-
-
-
-#OTHER TO INCLUDE
-
-
-
-
-# Additionally, there may be a role of terpenoids such as limonene, myrcene, α-pinene and linalool [56] in moderating the effects of THC.
-# 56. Russo E. B. Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects. Br J Pharmacol 2011; 163: 1344–64.
-
-
