@@ -21,13 +21,6 @@ IncludedPredictors
 pvalueCompare
 
 
-# ========= Run cross-check ==============
-source(paste0(HOME, "/analysis/metaCheck.R"))
-
-
-
-
-
 # ========= GWAS on schizophrenia ==============
 schiz=fread(paste0(HOME, "/data/schz.vcf.tsv.gz"))
 head(schiz)
